@@ -24,7 +24,7 @@ ideologies = {
 			"FACTION_NAME_MODERATE_SOCIALIST_6"
 		}
 		
-		color = { 234 75 77 }
+		color = { 211 35 0 }
 		
 		war_impact_on_world_tension = 1.95
 		faction_impact_on_world_tension = 1.95

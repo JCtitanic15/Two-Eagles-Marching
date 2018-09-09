@@ -25,7 +25,7 @@ ideologies = {
 			"FACTION_NAME_LIBERAL_6"
 		}
 		
-		color = { 240 235 103 }
+		color = { 255 164 120 }
 		
 		war_impact_on_world_tension = 1
 		faction_impact_on_world_tension = 1

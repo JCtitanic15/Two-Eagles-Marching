@@ -33,7 +33,7 @@ ideologies = {
 			"FACTION_NAME_NATIONAL_CONSERVATIVE_6"
 		}
 		
-		color = { 62 53 198 }
+		color = { 33 109 175 }
 		
 		war_impact_on_world_tension = 1
 		faction_impact_on_world_tension = 1

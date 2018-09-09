@@ -27,7 +27,7 @@ ideologies = {
 			"FACTION_NAME_NEW_DEMOCRAT_6"
 		}
 		
-		color = { 246 182 182 }
+		color = { 216 115 106 }
 		
 		war_impact_on_world_tension = 1
 		faction_impact_on_world_tension = 1

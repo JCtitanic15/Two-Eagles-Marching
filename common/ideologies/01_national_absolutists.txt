@@ -18,6 +18,9 @@ ideologies = {
 
 			national_strasserist = {
 			}
+
+			radical_socialist = {
+			}
 			
 		}
 		
@@ -30,7 +33,7 @@ ideologies = {
 			"FACTION_NAME_FASCIST_6"
 		}
 		
-		color = { 82 51 28 }
+		color = { 81 0 59 }
 		
 		war_impact_on_world_tension = 1
 		faction_impact_on_world_tension = 1
