@@ -33,7 +33,7 @@ ideologies = {
 			"FACTION_NAME_FASCIST_6"
 		}
 		
-		color = { 81 0 59 }
+		color = { 47 27 104 }
 		
 		war_impact_on_world_tension = 1
 		faction_impact_on_world_tension = 1

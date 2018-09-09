@@ -13,6 +13,28 @@ ideas = {
 				stability_factor = -0.10				
 			}
 		}
+		maria_francesca = {
+			
+			
+			allowed = {
+				original_tag = "ITA"
+			}
+			
+   			allowed_civil_war = {
+				NOT = {
+					OR = {
+						has_government = absolutist
+					}
+				}
+			}
+
+			removal_cost = 2
+			
+			modifier = {
+				stability_factor = -0.05				
+			}
+		}
+
 		vittoria_mutilata = {			
 			
 			allowed = {
