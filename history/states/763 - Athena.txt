@@ -1,0 +1,32 @@
+state={
+	id=763
+	name="STATE_763" # Thessaly
+	manpower=5012500
+	resources={
+		aluminium=3
+		steel=2
+	}
+	
+	state_category = state_level_10
+
+	history={
+		owner = GRE
+		victory_points = {
+			4109 20 
+		}
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			industrial_complex = 1
+			arms_factory = 2
+			dockyard = 1
+			4109 = { naval_base = 9 }
+		}
+		add_core_of = TUR
+		add_core_of = GRE
+	}
+
+	provinces={
+			1109 3988 4109 7127 
+	}
+}
